@@ -30,8 +30,6 @@
 ## Developers Remarks
 
 We had to change the original database plan We had since we enconter some difficulties such as difficulties we faced when connecting php with the previous database. So we have designed ER diagrame from the scratch again. here we attached the modified ER diagramme.
-
 We used phpmyadmin to design the database.
-
 We used some online webpage creating tools to create webpages such as Wappler,Wix.com etc.
 And also We used the some frontend tools such as bootstrap, css, html, sass, javascript etc.
